@@ -1,0 +1,4 @@
+@GenModel(complianceLevel="7.0", modelDirectory="/model.b/src-gen")
+package model.b
+
+class B {}

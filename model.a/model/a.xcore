@@ -1,0 +1,7 @@
+package model.a
+
+import model.b.B
+
+class A {
+	contains B b
+}
