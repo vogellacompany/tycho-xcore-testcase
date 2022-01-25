@@ -15,7 +15,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <tycho-version>0.24.0</tycho-version>
+    <tycho-version>2.6.0</tycho-version>
     <emf-version>2.11.1-v20150805-0538</emf-version>
     <emf-common-version>2.11.0-v20150805-0538</emf-common-version>
     <emf-codegen-version>2.11.0-v20150806-0404</emf-codegen-version>
